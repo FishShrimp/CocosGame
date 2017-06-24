@@ -1,0 +1,1 @@
+[{"__type__":"cc.SpriteFrame","content":{"name":"Btn_Label_off","texture":"96076254-e7a5-4602-9324-f671f58b62de","rect":[0,0,433,86],"offset":[0,0],"originalSize":[433,86]}},{"__type__":"cc.SpriteFrame","content":{"name":"Btn_Label_on","texture":"77228ecb-e7fb-4633-ba85-d16f6bccb68c","rect":[0,0,431,84],"offset":[0,0],"originalSize":[431,84]}}]

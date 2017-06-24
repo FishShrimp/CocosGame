@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"BackHallAnim","_duration":0.5,"curveData":{"paths":{"Bg/GameLayout":{"props":{"x":[{"frame":0,"value":-1920},{"frame":0.5,"value":0}]}},"Bg/RoomLayout":{"props":{"x":[{"frame":0,"value":0},{"frame":0.5,"value":1920}]}}}}}

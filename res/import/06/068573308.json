@@ -1,0 +1,1 @@
+[{"__type__":"cc.SpriteFrame","content":{"name":"TimeClockBgFrame","texture":"f760ea21-98ae-4846-8dcc-823e6f718e09","rect":[0,0,150,150],"offset":[0,0],"originalSize":[150,150]}},{"__type__":"cc.SpriteFrame","content":{"name":"TimeClockBg","texture":"2e7a1014-254e-4e25-9af1-f5edc4b4e795","rect":[0,0,150,150],"offset":[0,0],"originalSize":[150,150]}}]
